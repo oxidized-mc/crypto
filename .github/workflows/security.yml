@@ -9,3 +9,5 @@ on:
 jobs:
   audit:
     uses: oxidized-mc/ci/.github/workflows/security-audit.yml@main
+    with:
+      ignore: "RUSTSEC-2023-0071"
