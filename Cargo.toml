@@ -18,7 +18,7 @@ aes       = "0.8"
 md-5      = "0.11"
 rand      = "0.10"
 rsa       = { version = "0.9", features = ["sha2", "getrandom"] }
-sha1      = "0.10"
+sha1      = "0.11"
 thiserror = "2"
 uuid      = { version = "1", features = ["v3", "v4"] }
 
