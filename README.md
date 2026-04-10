@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/oxidized-mc/crypto/actions/workflows/ci.yml/badge.svg)](https://github.com/oxidized-mc/crypto/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Crates.io](https://img.shields.io/crates/v/oxidized-crypto.svg)](https://crates.io/crates/oxidized-crypto)
 
 Minecraft protocol cryptography — AES-128-CFB8 stream cipher, RSA-1024 keypair generation, Minecraft SHA-1 digest
 
